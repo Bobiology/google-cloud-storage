@@ -1,9 +1,9 @@
 {
   "type": "service_account",
   "project_id": "deb-dev-project",
-  "private_key_id": "dcf9902c9513da4bc824ba6977b8717af57c159e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOr8aqkHoxm62F\ndfJNqzmrrWRyI0zm3xe88XQKsXb5WpcMd679gT8+BS7Kw4uYeKas96IVrPZH7JyR\ndHloklJkwDIz9nluGsGqnrG+R+XJjukg6W9XOlTt2b4HB/ygGm9XtzOQZ+1KYzLM\neaHU4VL71UoXwfX/yfXJJVwLhux3zzfZ9IENfRJsGPmh/72Woo63HXdul+JY8Wbu\nDKZ3cvsub369+xjHn0Oy7aqt6Uy35pZd4vobbjQnGNdlOdNN0COesWFgdcmEuaC8\nyGd9kwQO6OgwKJV4jaSK+FHE/PZPvRDap5SUZ8wcPtn22T/sG2gDZNS4BYiAG+ci\nFcOxIX51AgMBAAECggEAMRjwSHQpkr84aQurk2epO27k/XgFPJKiQO/acO/XI0Sx\nvPRxTSb2rvTsOJ5a+s0uSshIaH29wzghuSvB62VWzTgatN1H2y/f8XfhISJTI54f\nIwJQwJfKtPWUfncXO7EL4fpS9Wq6o4ENACWkm70qyUfRYfNhTHHdQPru8o4Kfir9\nZ0NeJ0yzzvC+4oCm2XFjXilgezZ03HkigHY2MfRS/fGEhx4wDEPRNYKq4XNeJrOQ\nLih7EkdC/DM+izRQXaA4tcBxKU2s6kv3WFS0/01t/bhDSCzcNh58QZdJvztmGRFp\nMxtfJ8BOenMP8Pmk3ZUANHbdJLhHo1wlgMBqVze9wQKBgQD/Z0HrD8a705ZWjwuf\n+iNyKbKcD5T+sxCO7oC/a6eDszzOvXTp0RcYjMV2NCQqjETHj84JSru9ND0XHzOI\nJV4zdRsq3h+bvQaT4hV+a50WawvKq2efN7fsgUYvLxUdMQmBPC2GzsOW/ZKpucJs\nDuK241t+AczmlE9MRGXAG53i5wKBgQDPK2JACzcTk2+6szEAgP+PAo1YiHe0xG5p\nEt91xvOj6JM0ujsUvm1fnc43kLBa1dT/+iQMhv1c2C63FyUmSqOPgVAdF0XDnj7+\nk3ZwxArCC2x9i1Q6WSCqF5UB2n26yh8iF/Sfeu3GLR40YcQd8MrAOsG/f+7Cnh8S\n5G5RmbCEQwKBgQDLqGf867iaH6+a2Df52jmXmD5viVFTBDCo+PA7M7oBH9TWOmbW\n578V+XKfvhY0w2M5CqfN6wTna5dnL58k6j9CoxgFx9fGlSWAmOBwzZkWvkdJ1gIs\nCP8lnTP8/ftFKswcfIMFIyz94renlZO+HOSV15gmU4MzPoI5G7VTSfJNcwKBgFWJ\nURimSMhBYKlSYRIXMO0oHZoHRn2ReRDTJQZo7aGoXlcv6ULoWRpYepOAnv/yN+60\npfuyJJwX+jnISaNkv+F5f81zFW/uP4427nkiyFpUAyhWxaENuang8LoCL1VXLMGT\n6IGMbO4dJNJ151aBXAVAfUyHEtqyFJxlSpNQhIwnAoGAT6b44KcQL8dYcDg3ue6o\nyiNTkVOKisHNDwAGXNq0F1Tkgk4KgHTVN8RK+HeR0ePUrz9QlbLfOt+yQTQhRITs\n6p5hCfWBap4TYibIHRspduvYObwQjfVe4v4Im3oTg/2fMZEOF7ZbV3Q0epY6+rIg\npuXxNqOtJ2XAlMU0K45Fhpw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "deb-cicd@deb-dev-project.iam.gserviceaccount.com",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
   "client_id": "105341619520426783695",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
